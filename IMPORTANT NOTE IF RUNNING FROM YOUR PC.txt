@@ -1,0 +1,7 @@
+Paths ends are user based. Within Blender -> Scripting change the mesh path to wherever you imported your meshes/where your example meshes are placed.
+
+
+Change:
+mesh_path = "C:/Users/luka/Desktop/lukajokovicmartinez_project/Male.obj"
+To
+mesh_path = "your_mesh_path_goes_here"
